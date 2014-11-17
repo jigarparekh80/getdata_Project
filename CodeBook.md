@@ -43,7 +43,6 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 * Subject 
 * Actvity Id
-* Activity Label
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
 * tBodyAcc-mean()-Z
